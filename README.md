@@ -15,7 +15,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7CFC00&text=Here+have+some+tea+☕&fontColor=FFD700&fontSize=40&animation=twinkling&fontAlignY=40" />
 </div>
   <!-- Funny Kermit Vibes -->
-  <img src="https://media1.tenor.com/m/SxDiq1C5IfQAAAAC/hh-whta.gif" width="320" style="margin-top: 10px; border-radius: 20px; box-shadow: 0 0 20px #FFD700;" alt="Kermit Chaos Mode" />
+  <img src="https://media1.tenor.com/m/FhBDy-T1L6AAAAAC/kermit-the-frog-sip.gif" width="320" style="margin-top: 10px; border-radius: 20px; box-shadow: 0 0 20px #FFD700;" alt="Kermit Chaos Mode" />
    <!-- Liquid Metal Social Vibes -->
    <div align="center">
   <a href="https://www.linkedin.com/in/mugasati-srimeghana/">
