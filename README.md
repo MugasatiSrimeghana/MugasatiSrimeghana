@@ -1,6 +1,6 @@
 <div align="center">
   <video src="https://github.com/user-attachments/assets/ccb8a249-47ee-42c7-be24-9c75a3f9dfd4" width=400/>
-  </video>div
+  </video>
 
 <div align="center">
   <!-- BRAT GREEN + GOLD + BLACK Liquid Metal Vibes -->
@@ -32,7 +32,7 @@
   <br/>
 </div>
 </div>
-
+</div>
 <br>
 
 
