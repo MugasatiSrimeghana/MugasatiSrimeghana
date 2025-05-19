@@ -1,3 +1,4 @@
+
 <div align="center">
   <video src="https://github.com/user-attachments/assets/ccb8a249-47ee-42c7-be24-9c75a3f9dfd4" width=400/>
   </video>
@@ -73,6 +74,12 @@ print(meghana.summon())
 ⚡ *Quantum rebel... no cause, no chill, just chaos.* 🌀💥
 
 ☕ *Sleep? That’s government propaganda. Bugs? Exterminated on sight.* 🔪😈
+
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/e80123da-e1f0-4485-bab7-7d180d3b27b2" width=400/>
+  </video>
+</div>
 
 <div align="center">
   <img src="https://media1.tenor.com/m/JjI7NjOMG1UAAAAC/memes-kermit.gif" alt="Metal Divider" style="width: 90%; max-width: 700px; border-radius: 12px; box-shadow: 0 0 30px #7CFC00;" />
