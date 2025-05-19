@@ -1,4 +1,8 @@
 <div align="center">
+  <video src="https://github.com/user-attachments/assets/ccb8a249-47ee-42c7-be24-9c75a3f9dfd4" width=400/>
+  </video>div
+
+<div align="center">
   <!-- BRAT GREEN + GOLD + BLACK Liquid Metal Vibes -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1000&color=7CFC00&center=true&vCenter=true&random=false&width=800&lines=💚+Yellow!+I'm+Meghana+Mugasati+%F0%9F%91%91" alt="Dynamic Name Animation" />
